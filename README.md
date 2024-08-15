@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadarsalan121&label=Profile%90views&color=0e75b6&style=flat" alt="Muhammadarsalan121" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadarsalan121&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadarsalan121" /> </p>
 
 - 🔭 I’m currently working on **ecommerce website**
 
